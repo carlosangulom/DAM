@@ -1,4 +1,4 @@
-# DAM Unidad 2 Práctica 2
+# DAM Unidad 2 Práctica 1. AppFlutter avanzada
 
 Descripción:
 Realice una aplicación flutter con las siguientes características:
